@@ -9,6 +9,7 @@
 
 ## 🌐 High-Authority Startup Directories
 
+* [Launch Llama Directory](https://tools.launchllama.co) - Submit your product and get discovered in our 55k newsletter.
 * [Hacker News (Show HN)](https://news.ycombinator.com) – Reach technical founders and early adopters. Free to submit.
 * [TechCrunch](https://techcrunch.com) – Leading technology media property dedicated to obsessively profiling startups.
 * [Product Hunt](https://www.producthunt.com) – Launch platform for new products and startups. Free to submit.
@@ -106,7 +107,7 @@ Please only add platforms that are **free or freemium to submit**, actively main
 
 ## 🔗 Full directory
 
-This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 62 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
+This list is curated from the [Launch Llama startup directory tracker](https://tools.launchllama.co/tools/launch-directories) — 63 hand-picked entries here, 600+ total with DR scores, dofollow filters, and submission guides.
 
 ---
 
