@@ -98,6 +98,7 @@
 * [Smart Customer](https://smartcustomer.com) – Smart Customer is a general web directory - treat as a minor backlink/citation, not a traffic channel.
 * [SaaSHub](https://saashub.com) – Software alternatives and reviews platform. Great for 'alternative to X' SEO positioning.
 * [Turbo0](https://turbo0.com) – Curated software directory with paid placement and dofollow listings.
+* [SaaSCity](https://saascity.io) – Gamified SaaS directory — every listing becomes a building on a live isometric city map. Free to submit.
 
 ---
 
