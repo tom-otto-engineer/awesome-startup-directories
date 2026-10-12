@@ -38,6 +38,8 @@
 
 ## 💡 Free Startup Directories
 
+* [StarTap](https://startap.cc) – Free startup directory with a 3D clicker game, project pages, categories, and leaderboards.
+
 * [Google Business Profile](https://google.com) – Google Business Profile is for local brick-and-mortar businesses on Google Maps - not for listing SaaS or digital-only…
 * [Wikipedia](https://wikipedia.org) – Global encyclopedia. A notable Wikipedia article remains the strongest brand signal online.
 * [Pinterest](https://pinterest.com) – Visual discovery platform; pins remain a long-tail traffic source for design-led brands.
