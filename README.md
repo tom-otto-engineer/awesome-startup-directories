@@ -68,6 +68,7 @@
 * [CNET](https://cnet.com) – CNET is media, not a directory - you need a genuine news angle or launch story, not a form submission.
 * [Mashable India](https://in.mashable.com) – Mashable India is media, not a directory - you need a genuine news angle or launch story, not a form submission.
 * [Entrepreneur](https://entrepreneur.com) – Entrepreneur is media, not a directory - you need a genuine news angle or launch story, not a form submission.
+* [MEDIAPRONET](https://mediapronet.com/) – Curated directory for newly launched startups and indie products. Freemium: the free listing needs a badge on your site, paid plans are one-time.
 
 ---
 
