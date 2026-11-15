@@ -98,6 +98,7 @@
 * [Smart Customer](https://smartcustomer.com) – Smart Customer is a general web directory - treat as a minor backlink/citation, not a traffic channel.
 * [SaaSHub](https://saashub.com) – Software alternatives and reviews platform. Great for 'alternative to X' SEO positioning.
 * [Turbo0](https://turbo0.com) – Curated software directory with paid placement and dofollow listings.
+* [Awesome Indie](https://awesomeindie.com) – Daily launch platform for indie makers with community-ranked daily, weekly, monthly, and yearly leaderboards. Free to submit.
 
 ---
 
